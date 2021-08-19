@@ -45,7 +45,7 @@ assimp-vc142-mtd.lib;SOIL.lib;glew32s.lib;glfw3.lib;opengl32.lib;User32.lib;Gdi3
 
 ---
 
-4.扩展配置
+4. 扩展配置
 
 * SOIL
 * GLM
